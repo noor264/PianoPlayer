@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PianoPlayer</string>
+    <string name="signup">signup</string>
+    <string name="login">login</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="or">or</string>
+    <string name="welcome">welcome</string>
+</resources>
